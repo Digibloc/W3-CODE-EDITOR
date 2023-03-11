@@ -1,0 +1,21 @@
+# W3-CODE-EDITOR
+Code Editor
+This is a simple web-based code editor built using HTML, CSS, and JavaScript. The editor provides a user-friendly interface for writing and editing code. It supports multiple programming languages including JavaScript, HTML, CSS, Python, and more.
+
+Features
+Syntax highlighting for multiple programming languages.
+Auto-indentation and auto-completion of code.
+Line numbering to keep track of code.
+Drag and drop file upload to open files.
+Ability to save and download code files.
+Easy to use user interface.
+Usage
+To use this code editor, simply open the index.html file in your web browser. Once opened, you will see a user-friendly interface with a text area to write your code. The editor will automatically detect the language you are using and provide syntax highlighting accordingly.
+
+You can open existing files by dragging and dropping them into the editor. To save a file, click on the "Save" button and give your file a name. To download a file, click on the "Download" button and save the file to your computer.
+
+Contributing
+If you would like to contribute to this project, please fork this repository and submit a pull request with your changes. Any contributions are greatly appreciated!
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
